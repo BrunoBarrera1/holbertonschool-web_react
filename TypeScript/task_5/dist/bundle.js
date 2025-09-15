@@ -1,0 +1,1 @@
+(()=>{"use strict";console.log({credits:7,_majorBrand:"major"}),console.log({credits:3,_minorBrand:"minor"})})();
